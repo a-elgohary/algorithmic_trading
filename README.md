@@ -10,9 +10,6 @@ This project aims to perform quantitative analysis of the stock market using dat
 This project focuses on:
 
 * Fetching stock market data from the Alpha Vantage API.
-* Build An Equal-Weight S&P 500 Index Fund.
-* Build A Quantitative Momentum Investing Strategy.
-* Build A Quantitative Value Investing Strategy.
 * Build An Unsupervised Learning Trading Strategy.
 * Build A Sentiment Investing Strategy.
 * Build An Intraday Strategy Using GARCH Model.
