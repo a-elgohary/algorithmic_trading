@@ -4,7 +4,7 @@
 This project aims to perform quantitative analysis of the stock market using data from the Alpha Vantage API. The goal is to provide insights into stock market trends and eventually create a live Power BI dashboard for visualization and analysis.
 
 
-**Note: This project is for educational purposes and should not be used for real trading without proper knowledge and experience.**
+**Note: This project is for research purposes only and should not be used for real trading without proper knowledge and experience.**
 
 ## Project Overview
 This project focuses on:
