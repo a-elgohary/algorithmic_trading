@@ -1,16 +1,14 @@
 # Algorithmic Trading with Alpha Vantage
-#### (Work in Progress)
 
-This project aims to perform quantitative analysis of the stock market using data from the Alpha Vantage API. The goal is to provide insights into stock market trends and eventually create a live Power BI dashboard for visualization and analysis.
+This ongoing project focuses on building machine learning models with stock market data from the Alpha Vantage API to guide effective trading strategies.
 
 
-**Note: This project is for research purposes only and should not be used for real trading without proper knowledge and experience.**
+Here's what I'm aiming to achieve:
 
-## Project Overview
-This project focuses on:
+- Develop machine learning models to predict stock market trends.
+- Create effective trading strategies based on those models.
+- Deploy the models to Power BI and build a live dashboard to visualize real-time stock market trends.
 
-* Fetching stock market data from the Alpha Vantage API.
-* Build An Unsupervised Learning Trading Strategy.
-* Build A Sentiment Investing Strategy.
-* Build An Intraday Strategy Using GARCH Model.
-* Build a Stock Market Data dashboard Using Power BI.
+This project is a work in progress, and I invite you to check out the project notebook to follow my journey. Stay tuned for updates, and feel free to reach out with any questions or suggestions.
+
+***Disclaimer: This project is for research purposes only and should not be used as investment advice.***
